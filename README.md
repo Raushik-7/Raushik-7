@@ -90,17 +90,6 @@ I enjoy working across **Full-Stack Development, AI/ML, Data Science, and DSA**,
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Raushik-7&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raushik-7&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -112,7 +101,6 @@ I enjoy working across **Full-Stack Development, AI/ML, Data Science, and DSA**,
 
 ---
 
-# 🐍 Contribution Snake
 
 <div align="center">
 
