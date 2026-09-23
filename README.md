@@ -94,7 +94,7 @@ I enjoy working across **Full-Stack Development, AI/ML, Data Science, and DSA**,
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Raushik-7&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Raushik-7&theme=tokyonight&hide_border=true&v=2" />
 
 </div>
 
