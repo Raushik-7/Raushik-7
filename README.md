@@ -90,8 +90,6 @@ I enjoy working across **Full-Stack Development, AI/ML, Data Science, and DSA**,
 ---
 
 
-# 🔥 GitHub Streak
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Raushik-7&theme=tokyonight&hide_border=true&v=2" />
