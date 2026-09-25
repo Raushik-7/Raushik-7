@@ -83,7 +83,7 @@ I enjoy working across **Full-Stack Development, AI/ML, Data Science, and DSA**,
 ### 🏅 Competitive Programming
 
 - **LeetCode:** 1824 Rating
-- **Codeforces:** 1088 Rating
+- **Codeforces:** 1067 Rating
 - Solved **300+ DSA problems**
 - Currently focusing on improving problem-solving speed and algorithmic thinking
 
