@@ -6,6 +6,10 @@ I'm a Computer Science student passionate about **building practical software, s
 
 I enjoy working across **Full-Stack Development, AI/ML, Data Science, and DSA**, and I like turning ideas into working projects.
 
+
+**Portfolio:** https://raushik-portfolio.vercel.app/
+
+
 ---
 
 # 🛠️ Tech Stack
